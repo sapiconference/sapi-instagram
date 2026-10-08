@@ -1,0 +1,42 @@
+name: Zverejňovanie carouselov
+
+on:
+  schedule:
+    - cron: "7 * * * *"   # každú hodinu o :07 (UTC)
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "Testovací beh (nič nezverejní)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zverejnovanie
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Zverejniť
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.test }}
+        run: python publish.py
+      - name: Uložiť stav
+        run: |
+          if ! git diff --quiet zverejnene.json; then
+            git config user.name "sapi-bot"
+            git config user.email "sapi-bot@users.noreply.github.com"
+            git add zverejnene.json
+            git commit -m "Zverejnený carousel"
+            git push
+          fi

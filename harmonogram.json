@@ -1,0 +1,485 @@
+{
+  "casova_zona": "Europe/Bratislava",
+  "prispevky": [
+    {
+      "poradie": 1,
+      "carousel": 1,
+      "tema": "Komunitná energetika",
+      "datum": "2026-10-13",
+      "cas": "08:00",
+      "priecinok": "01",
+      "popisok": "Vaše panely vyrábajú viac, než spotrebujete. Kam s prebytkom?\n\nFotovoltika vyrába najviac cez deň, keď je spotreba doma či vo firme často nízka. Zdieľanie umožňuje poslať prebytok tomu, kto ho práve potrebuje – susedovi, škole či firme.\n\nElektrina vyrobená v susedstve môže zostať v susedstve. Komunitná energetika spája výrobcov a odberateľov na jednom mieste.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #komunitnaenergetika #zdielanieelektriny",
+      "alt_texty": [
+        "Vaše panely vyrábajú viac, než spotrebujete. Kam s prebytkom? Zdieľanie elektriny mení prebytky na úsporu pre ďalších.",
+        "Prebytok nie je strata. Fotovoltika vyrába najviac cez deň, keď je spotreba doma či vo firme často nízka. Zdieľanie umožňuje poslať prebytok tomu, kto ho práve potrebuje – susedovi, škole či firme.",
+        "Pre koho je zdieľanie: Majitelia zdrojov, ktorí nevedia využiť prebytky; Bytové domy, SVB a ich správcovia; Firmy, developeri a samosprávy s voľnými strechami.",
+        "Aj bez vlastnej strechy. Zdieľanie otvára zelenú elektrinu aj tým, ktorí si vlastný zdroj inštalovať nemôžu – napríklad domácnostiam v bytových domoch či nájomníkom.",
+        "Elektrina vyrobená v susedstve môže zostať v susedstve. Komunitná energetika spája výrobcov a odberateľov na jednom mieste."
+      ]
+    },
+    {
+      "poradie": 2,
+      "carousel": 5,
+      "tema": "Veterná energia",
+      "datum": "2026-10-15",
+      "cas": "08:00",
+      "priecinok": "05",
+      "popisok": "Slnko večer zapadá. Odkiaľ potom príde zelená elektrina?\n\nVeterné elektrárne vyrábajú aj v noci a v zimných mesiacoch, keď fotovoltika produkuje menej. Spolu tak vytvárajú vyváženejší obnoviteľný mix.\n\nVyvážený energetický mix potrebuje slnko aj vietor. Každý zdroj vyrába v inom čase – spolu sa dopĺňajú.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #veternaenergia #vietor",
+      "alt_texty": [
+        "Slnko večer zapadá. Odkiaľ potom príde zelená elektrina? Prečo Slovensko potrebuje aj vietor.",
+        "Vietor dopĺňa slnko. Veterné elektrárne vyrábajú aj v noci a v zimných mesiacoch, keď fotovoltika produkuje menej. Spolu tak vytvárajú vyváženejší obnoviteľný mix.",
+        "Prečo sa o vetre hovorí: Výroba v čase, keď slnko nesvieti; Príležitosť pre regióny a samosprávy; Nižšia závislosť od dovozu energie.",
+        "Slovensko zaostáva. V porovnaní so susednými krajinami má Slovensko len minimum veterných elektrární. Brzdou sú najmä zložité povoľovacie procesy a nedôvera časti verejnosti.",
+        "Vyvážený energetický mix potrebuje slnko aj vietor. Každý zdroj vyrába v inom čase – spolu sa dopĺňajú."
+      ]
+    },
+    {
+      "poradie": 3,
+      "carousel": 19,
+      "tema": "Fotovoltika",
+      "datum": "2026-10-20",
+      "cas": "08:00",
+      "priecinok": "19",
+      "popisok": "Rozmýšľate nad vlastnou fotovoltikou? Najprv sa pozrite na svoju spotrebu.\n\nFotovoltika na streche firmy či domu znižuje náklady na elektrinu a závislosť od cien na trhu. Pred výstavbou je však potrebné zvládnuť niekoľko krokov.\n\nNajlacnejšia je elektrina, ktorú si vyrobíte a hneď spotrebujete. Výkon elektrárne sa odvíja od spotreby, nie od veľkosti strechy.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #fotovoltika #solarnaenergia",
+      "alt_texty": [
+        "Rozmýšľate nad vlastnou fotovoltikou? Najprv sa pozrite na svoju spotrebu. Vlastný zdroj krok za krokom.",
+        "Vlastná elektrina pod kontrolou. Fotovoltika na streche firmy či domu znižuje náklady na elektrinu a závislosť od cien na trhu. Pred výstavbou je však potrebné zvládnuť niekoľko krokov.",
+        "Postup v skratke: Posúdenie spotreby a vhodného výkonu; Žiadosť o pripojenie u distribútora; Výstavba, uvedenie do prevádzky a monitoring.",
+        "Spotreba rozhoduje. Najvýhodnejšia je elektrina, ktorú spotrebujete priamo v čase výroby. Presun spotreby do denných hodín alebo batéria úsporu ešte zvýšia.",
+        "Najlacnejšia je elektrina, ktorú si vyrobíte a hneď spotrebujete. Výkon elektrárne sa odvíja od spotreby, nie od veľkosti strechy."
+      ]
+    },
+    {
+      "poradie": 4,
+      "carousel": 12,
+      "tema": "Priemysel",
+      "datum": "2026-10-22",
+      "cas": "08:00",
+      "priecinok": "12",
+      "popisok": "Ako môže priemysel znižovať emisie a zostať konkurencieschopný?\n\nSlovenský priemysel musí znižovať emisie a zároveň zostať konkurencieschopný. Obnoviteľné zdroje sú jedným z hlavných nástrojov, ako to dosiahnuť.\n\nČistá energia je pre priemysel otázkou konkurencieschopnosti. OZE patria medzi hlavné nástroje dekarbonizácie.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #priemysel #dekarbonizacia",
+      "alt_texty": [
+        "Ako môže priemysel znižovať emisie a zostať konkurencieschopný? Obnoviteľné zdroje v dekarbonizácii priemyslu.",
+        "Priemysel stojí pred zmenou. Slovenský priemysel musí znižovať emisie a zároveň zostať konkurencieschopný. Obnoviteľné zdroje sú jedným z hlavných nástrojov, ako to dosiahnuť.",
+        "Tri piliere zmeny: Politiky a opatrenia, ktoré podporia využívanie OZE; Technológie – elektrifikácia a vodík; Financovanie náročných investícií.",
+        "Bariéry treba pomenovať. Firmy narážajú na zložité povoľovanie, obmedzenú kapacitu siete a cenu kapitálu. Kde sa tieto bariéry odstránia, zmena sa zrýchli.",
+        "Čistá energia je pre priemysel otázkou konkurencieschopnosti. OZE patria medzi hlavné nástroje dekarbonizácie."
+      ]
+    },
+    {
+      "poradie": 5,
+      "carousel": 7,
+      "tema": "Dezinformácie",
+      "datum": "2026-10-27",
+      "cas": "08:00",
+      "priecinok": "07",
+      "popisok": "Čítali ste na sieťach, že veterné elektrárne škodia? Skúste to overiť.\n\nO veterných elektrárňach koluje na sociálnych sieťach množstvo zavádzajúcich tvrdení. Mnohé z nich majú spoločné znaky, podľa ktorých sa dajú rozpoznať.\n\nFakty potrebujú viac času než mýty. Oplatí sa im ho dať. Kritické myslenie je najlepšia ochrana pred dezinformáciami.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #dezinformacie #veternaenergia",
+      "alt_texty": [
+        "Čítali ste na sieťach, že veterné elektrárne škodia? Skúste to overiť. Ako rozpoznať mýty o energetike.",
+        "Mýty sa šíria rýchlejšie než fakty. O veterných elektrárňach koluje na sociálnych sieťach množstvo zavádzajúcich tvrdení. Mnohé z nich majú spoločné znaky, podľa ktorých sa dajú rozpoznať.",
+        "Na čo si dať pozor: Tvrdenia bez zdroja alebo s vytrhnutými číslami; Emotívne obrázky namiesto dát; Zovšeobecňovanie z jedného prípadu.",
+        "Overujte zdroje. Pred zdieľaním sa oplatí pozrieť, kto informáciu šíri, na aké dáta sa odvoláva a či ju potvrdzujú aj odborné inštitúcie.",
+        "Fakty potrebujú viac času než mýty. Oplatí sa im ho dať. Kritické myslenie je najlepšia ochrana pred dezinformáciami."
+      ]
+    },
+    {
+      "poradie": 6,
+      "carousel": 23,
+      "tema": "Batériové úložiská",
+      "datum": "2026-10-29",
+      "cas": "08:00",
+      "priecinok": "23",
+      "popisok": "Viac slnka a vetra v sieti. Kto udrží rovnováhu?\n\nRýchly rozvoj fotovoltiky, veterných elektrární a batérií zásadne mení fungovanie elektrizačnej sústavy. Prevádzkovatelia sietí riešia nové výzvy.\n\nBatérie menia premenlivé zdroje na spoľahlivých partnerov siete. Integrácia OZE a úložísk je kľúčom k stabilnej sústave.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #bateriovauloziska #akumulacia",
+      "alt_texty": [
+        "Viac slnka a vetra v sieti. Kto udrží rovnováhu? Integrácia OZE a batérií do sústavy.",
+        "Sústava sa mení. Rýchly rozvoj fotovoltiky, veterných elektrární a batérií zásadne mení fungovanie elektrizačnej sústavy. Prevádzkovatelia sietí riešia nové výzvy.",
+        "Výzvy prevádzkovateľov: Preťaženie lokálnych uzlov; Stratégia rozvoja infraštruktúry; Nové pravidlá pripájania a riadenia výroby.",
+        "Batéria ako vyrovnávač. Batériové úložiská dokážu elektrinu uložiť v čase prebytku a vrátiť ju do siete, keď jej je nedostatok. Pomáhajú tak udržať sústavu v rovnováhe.",
+        "Batérie menia premenlivé zdroje na spoľahlivých partnerov siete. Integrácia OZE a úložísk je kľúčom k stabilnej sústave."
+      ]
+    },
+    {
+      "poradie": 7,
+      "carousel": 2,
+      "tema": "Bytové domy",
+      "datum": "2026-11-03",
+      "cas": "08:00",
+      "priecinok": "02",
+      "popisok": "Strecha bytového domu môže znížiť účty všetkým bytom. Prečo ju nevyužívame?\n\nFotovoltika na streche bytového domu môže zásobovať spoločné priestory aj jednotlivé byty. Kľúčom je dohoda vlastníkov a správne nastavené pravidlá zdieľania.\n\nSpoločná strecha, spoločná elektrina, spoločná úspora. Rozhoduje dohoda vlastníkov a jasné pravidlá.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #bytovedomy #zdielanieelektriny",
+      "alt_texty": [
+        "Strecha bytového domu môže znížiť účty všetkým bytom. Prečo ju nevyužívame? Zdieľanie elektriny v bytovom dome.",
+        "Strecha ako spoločný zdroj. Fotovoltika na streche bytového domu môže zásobovať spoločné priestory aj jednotlivé byty. Kľúčom je dohoda vlastníkov a správne nastavené pravidlá zdieľania.",
+        "Čo si pripraviť: Súhlas vlastníkov a dohodu o delení nákladov a úspor; Technické posúdenie strechy a pripojenia; Pravidlá, ako sa vyrobená elektrina rozdelí medzi byty.",
+        "Kto urobí prvý krok. Iniciátorom môže byť spoločenstvo vlastníkov alebo správca domu. Pomôže začať analýzou spotreby a prínosy zrozumiteľne vysvetliť všetkým vlastníkom.",
+        "Spoločná strecha, spoločná elektrina, spoločná úspora. Rozhoduje dohoda vlastníkov a jasné pravidlá."
+      ]
+    },
+    {
+      "poradie": 8,
+      "carousel": 15,
+      "tema": "Fotovoltika",
+      "datum": "2026-11-05",
+      "cas": "08:00",
+      "priecinok": "15",
+      "popisok": "Postaviť fotovoltiku je len začiatok. Čo rozhoduje o jej úspechu?\n\nÚspešná fotovoltika si vyžaduje kvalitnú prípravu, správne pripojenie aj starostlivú prevádzku počas celej životnosti elektrárne.\n\nDobrá elektráreň je dobre pripravená aj dobre spravovaná. Myslite na celý život projektu, nie len na výstavbu.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #fotovoltika #solarnaenergia",
+      "alt_texty": [
+        "Postaviť fotovoltiku je len začiatok. Čo rozhoduje o jej úspechu? Od plánov k prevádzke.",
+        "Projekt nekončí výstavbou. Úspešná fotovoltika si vyžaduje kvalitnú prípravu, správne pripojenie aj starostlivú prevádzku počas celej životnosti elektrárne.",
+        "Tri fázy projektu: Príprava – lokalita, povolenia, pripojenie; Výstavba – kvalitné komponenty a realizácia; Prevádzka – monitoring, údržba, servis.",
+        "Prevádzka na desaťročia. Fotovoltická elektráreň pracuje desaťročia. Pravidelný monitoring a údržba odhalia poruchy včas a udržia výrobu na plánovanej úrovni.",
+        "Dobrá elektráreň je dobre pripravená aj dobre spravovaná. Myslite na celý život projektu, nie len na výstavbu."
+      ]
+    },
+    {
+      "poradie": 9,
+      "carousel": 8,
+      "tema": "Veterná energia",
+      "datum": "2026-11-10",
+      "cas": "08:00",
+      "priecinok": "08",
+      "popisok": "Hučí veterná elektráreň tak, že sa pri nej nedá žiť?\n\nHluk z veterných elektrární sa dá vopred modelovať a po postavení merať. Umiestnenie turbín sa navrhuje tak, aby spĺňalo limity platné pre obytné oblasti.\n\nHluk sa dá vopred vypočítať, zmerať aj obmedziť. Rozhodovať by mali dáta, nie dojmy.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #veternaenergia #vietor",
+      "alt_texty": [
+        "Hučí veterná elektráreň tak, že sa pri nej nedá žiť? Čo o hluku hovoria merania, nie dojmy.",
+        "Hluk je merateľný. Hluk z veterných elektrární sa dá vopred modelovať a po postavení merať. Umiestnenie turbín sa navrhuje tak, aby spĺňalo limity platné pre obytné oblasti.",
+        "Ako sa hluk rieši: Hlukové štúdie už v príprave projektu; Dostatočná vzdialenosť od obydlí; Prevádzkové režimy so zníženou hlučnosťou.",
+        "Limity platia pre všetkých. Hlukové limity pre obytné oblasti platia pre cesty, továrne aj veterné elektrárne. Projekt ich musí preukázateľne splniť už v povoľovacom procese.",
+        "Hluk sa dá vopred vypočítať, zmerať aj obmedziť. Rozhodovať by mali dáta, nie dojmy."
+      ]
+    },
+    {
+      "poradie": 10,
+      "carousel": 27,
+      "tema": "Elektromobilita",
+      "datum": "2026-11-12",
+      "cas": "08:00",
+      "priecinok": "27",
+      "popisok": "Čo ak sa večer všetci naraz rozhodneme nabíjať auto?\n\nPribúdajúce elektromobily a nabíjacie stanice kladú nové nároky na siete. Rozhodujúce bude, kedy a ako budeme nabíjať.\n\nNezáleží len na tom, koľko nabíjame, ale aj kedy. Elektromobil môže byť súčasťou riešenia.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #elektromobilita #nabijanie",
+      "alt_texty": [
+        "Čo ak sa večer všetci naraz rozhodneme nabíjať auto? Elektrifikácia dopravy a kapacita siete.",
+        "Elektromobilita je realita. Pribúdajúce elektromobily a nabíjacie stanice kladú nové nároky na siete. Rozhodujúce bude, kedy a ako budeme nabíjať.",
+        "Možné riešenia: Riadené nabíjanie podľa stavu siete; Nabíjanie z lokálnych zdrojov; Flotily ako flexibilný odber.",
+        "Riadené nabíjanie. Inteligentné nabíjanie presúva nabíjanie do času, keď je v sieti dostatok elektriny. Auto je ráno nabité a sieť nie je preťažená.",
+        "Nezáleží len na tom, koľko nabíjame, ale aj kedy. Elektromobil môže byť súčasťou riešenia."
+      ]
+    },
+    {
+      "poradie": 11,
+      "carousel": 3,
+      "tema": "Energetické spoločenstvá",
+      "datum": "2026-11-17",
+      "cas": "08:00",
+      "priecinok": "03",
+      "popisok": "Chcete so susedmi vyrábať a zdieľať elektrinu? Kde začať?\n\nEnergetické spoločenstvo je zoskupenie ľudí, firiem či samospráv, ktoré spolu vyrábajú, zdieľajú alebo uskladňujú elektrinu. Jeho hlavným cieľom nie je finančný zisk, ale prínos pre členov a okolie.\n\nEnergiu nemusíte riešiť sami. Spoločenstvo rozdelí náklady aj prínosy medzi viacerých.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #energetickespolocenstva #komunitnaenergetika",
+      "alt_texty": [
+        "Chcete so susedmi vyrábať a zdieľať elektrinu? Kde začať? Prvé kroky k energetickému spoločenstvu.",
+        "Spoločenstvo ako tím. Energetické spoločenstvo je zoskupenie ľudí, firiem či samospráv, ktoré spolu vyrábajú, zdieľajú alebo uskladňujú elektrinu. Jeho hlavným cieľom nie je finančný zisk, ale prínos pre členov a okolie.",
+        "Prvé kroky: Nájsť členov so spoločným cieľom; Zmapovať spotrebu a možnosti výroby; Zvoliť právnu formu a pravidlá fungovania.",
+        "Poradiť sa oplatí. Legislatíva aj technické riešenia sa vyvíjajú. Odborné poradenstvo pomôže vyhnúť sa chybám a nastaviť projekt tak, aby bol prínosný pre všetkých členov.",
+        "Energiu nemusíte riešiť sami. Spoločenstvo rozdelí náklady aj prínosy medzi viacerých."
+      ]
+    },
+    {
+      "poradie": 12,
+      "carousel": 16,
+      "tema": "Trh s elektrinou",
+      "datum": "2026-11-19",
+      "cas": "08:00",
+      "priecinok": "16",
+      "popisok": "Vyrobiť zelenú elektrinu je jednoduchšie, než ju výhodne predať.\n\nCena elektriny sa mení v priebehu dňa aj roka. Výrobcovia preto hľadajú spôsoby, ako vyrobenú elektrinu predať čo najvýhodnejšie.\n\nHodnotu elektriny určuje aj to, kedy ju dodáte. Úspešný výrobca myslí na výrobu aj predaj.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #trhselektrinou #fotovoltika",
+      "alt_texty": [
+        "Vyrobiť zelenú elektrinu je jednoduchšie, než ju výhodne predať. Ako predávať zelenú elektrinu.",
+        "Hodnota elektriny sa mení. Cena elektriny sa mení v priebehu dňa aj roka. Výrobcovia preto hľadajú spôsoby, ako vyrobenú elektrinu predať čo najvýhodnejšie.",
+        "Možnosti pre výrobcov: Dlhodobé zmluvy o dodávke elektriny (PPA); Predaj cez obchodníka alebo agregátora; Batéria na presun dodávky do výhodnejších hodín.",
+        "Záleží na čase. Keď svieti slnko, fotovoltika vyrába naraz a cena na trhu často klesá. Výrobcovia, ktorí dokážu dodávku presunúť alebo elektrinu spotrebovať na mieste, získajú viac.",
+        "Hodnotu elektriny určuje aj to, kedy ju dodáte. Úspešný výrobca myslí na výrobu aj predaj."
+      ]
+    },
+    {
+      "poradie": 13,
+      "carousel": 9,
+      "tema": "Veterná energia a príroda",
+      "datum": "2026-11-24",
+      "cas": "08:00",
+      "priecinok": "09",
+      "popisok": "Ohrozujú veterné elektrárne vtáky?\n\nVplyv na vtáctvo patrí k najčastejším otázkam pri veterných projektoch. Dôkladná príprava a moderné technológie ho dokážu výrazne obmedziť.\n\nZelená energia a ochrana prírody môžu ísť ruka v ruke. Kľúčom je dobrá príprava a moderné technológie.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #veternaenergia #ochranaprirody",
+      "alt_texty": [
+        "Ohrozujú veterné elektrárne vtáky? Opatrenia, ktoré chránia vtáctvo.",
+        "Ochrana prírody ako súčasť projektu. Vplyv na vtáctvo patrí k najčastejším otázkam pri veterných projektoch. Dôkladná príprava a moderné technológie ho dokážu výrazne obmedziť.",
+        "Aké opatrenia existujú: Ornitologické prieskumy pred výberom lokality; Systémy detekcie vtákov, ktoré turbínu spomalia alebo zastavia; Monitoring počas celej prevádzky.",
+        "Technológia pomáha. Moderné systémy dokážu vtáka rozpoznať ešte pred priblížením k turbíne a automaticky ju spomaliť alebo zastaviť.",
+        "Zelená energia a ochrana prírody môžu ísť ruka v ruke. Kľúčom je dobrá príprava a moderné technológie."
+      ]
+    },
+    {
+      "poradie": 14,
+      "carousel": 24,
+      "tema": "Stabilita siete",
+      "datum": "2026-11-26",
+      "cas": "08:00",
+      "priecinok": "24",
+      "popisok": "Dokážu solárne elektrárne sieť stabilizovať, nie ju len zaťažovať?\n\nKlasické zdroje stabilizujú sieť vďaka rotujúcim strojom. Grid-forming striedače umožňujú, aby podobnú úlohu prevzali aj fotovoltika a batérie.\n\nStabilita siete už nie je len úlohou veľkých elektrární. Moderné striedače robia z OZE oporu sústavy.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #stabilitasiete #fotovoltika",
+      "alt_texty": [
+        "Dokážu solárne elektrárne sieť stabilizovať, nie ju len zaťažovať? Grid-forming technológie.",
+        "Nová úloha striedačov. Klasické zdroje stabilizujú sieť vďaka rotujúcim strojom. Grid-forming striedače umožňujú, aby podobnú úlohu prevzali aj fotovoltika a batérie.",
+        "Čo prinášajú: Podporu stability napätia a frekvencie; Rýchlu reakciu na poruchy v sústave; Vyšší podiel OZE bez straty spoľahlivosti.",
+        "Ako to funguje. Grid-forming striedač sa správa podobne ako klasický generátor – sám vytvára referenciu napätia a frekvencie a okamžite reaguje na zmeny v sieti.",
+        "Stabilita siete už nie je len úlohou veľkých elektrární. Moderné striedače robia z OZE oporu sústavy."
+      ]
+    },
+    {
+      "poradie": 15,
+      "carousel": 20,
+      "tema": "Firmy",
+      "datum": "2026-12-01",
+      "cas": "08:00",
+      "priecinok": "20",
+      "popisok": "Vyrábať pre seba, nie pre sieť. Kedy sa to oplatí?\n\nLokálny zdroj je v slovenskej legislatíve zdroj elektriny určený predovšetkým na pokrytie spotreby v mieste, kde je postavený. Do siete dodáva len obmedzene.\n\nNajkratšia cesta elektriny vedie zo strechy priamo do zásuvky. Vlastná spotreba šetrí náklady aj sieť.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #firmy #fotovoltika",
+      "alt_texty": [
+        "Vyrábať pre seba, nie pre sieť. Kedy sa to oplatí? Lokálny zdroj a výroba na mieste spotreby.",
+        "Zdroj pre vlastnú spotrebu. Lokálny zdroj je v slovenskej legislatíve zdroj elektriny určený predovšetkým na pokrytie spotreby v mieste, kde je postavený. Do siete dodáva len obmedzene.",
+        "Prečo o ňom uvažovať: Spotreba vyrobenej elektriny priamo na mieste; Nižšie náklady na nakupovanú elektrinu; Menšie nároky na kapacitu siete.",
+        "Pre koho sa hodí. Najväčší prínos má pre firmy a prevádzky s vysokou spotrebou cez deň – napríklad výrobu, sklady či obchody.",
+        "Najkratšia cesta elektriny vedie zo strechy priamo do zásuvky. Vlastná spotreba šetrí náklady aj sieť."
+      ]
+    },
+    {
+      "poradie": 16,
+      "carousel": 13,
+      "tema": "Priemysel",
+      "datum": "2026-12-03",
+      "cas": "08:00",
+      "priecinok": "13",
+      "popisok": "Dá sa každá fabrika prepnúť na elektrinu?\n\nMnohé priemyselné procesy je možné previesť na elektrinu z obnoviteľných zdrojov. Tam, kde to nejde, sa ako možnosť skúma zelený vodík.\n\nElektrifikovať, kde sa dá. Vodík tam, kde to inak nejde. Správna technológia pre správny proces.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #priemysel #dekarbonizacia",
+      "alt_texty": [
+        "Dá sa každá fabrika prepnúť na elektrinu? Elektrifikácia a vodík v priemysle.",
+        "Nie každý proces je rovnaký. Mnohé priemyselné procesy je možné previesť na elektrinu z obnoviteľných zdrojov. Tam, kde to nejde, sa ako možnosť skúma zelený vodík.",
+        "Kľúčové technológie: Tepelné čerpadlá a elektrické procesné teplo; Vlastné OZE zdroje a batériové úložiská; Zelený vodík pre náročné procesy.",
+        "Vodík nie je na všetko. Zelený vodík dáva zmysel najmä tam, kde priama elektrifikácia nestačí. Pri bežných procesoch býva priame využitie elektriny efektívnejšie.",
+        "Elektrifikovať, kde sa dá. Vodík tam, kde to inak nejde. Správna technológia pre správny proces."
+      ]
+    },
+    {
+      "poradie": 17,
+      "carousel": 6,
+      "tema": "Veterná energia",
+      "datum": "2026-12-08",
+      "cas": "08:00",
+      "priecinok": "06",
+      "popisok": "Prečo niekde veterné elektrárne vítajú a inde proti nim protestujú?\n\nSkúsenosti z Európy ukazujú, že úspech veterných projektov závisí od toho, ako skoro a otvorene sa do nich zapojí miestna komunita.\n\nVeterná elektráreň stojí pevnejšie, keď ju podporujú ľudia okolo nej. Dôvera sa buduje od prvého dňa projektu.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #veternaenergia #vietor",
+      "alt_texty": [
+        "Prečo niekde veterné elektrárne vítajú a inde proti nim protestujú? Spoločenská akceptácia rozhoduje o úspechu.",
+        "Dôvera sa buduje od začiatku. Skúsenosti z Európy ukazujú, že úspech veterných projektov závisí od toho, ako skoro a otvorene sa do nich zapojí miestna komunita.",
+        "Čo pomáha: Včasná a otvorená komunikácia s obyvateľmi; Podiel komunity na prínosoch projektu; Vecné odpovede na obavy – hluk, krajina, príroda.",
+        "Prínos musí byť viditeľný. Keď obyvatelia vidia konkrétny prínos – príjmy pre obec, lacnejšiu energiu či podiel na projekte – vnímajú veterné elektrárne ako svoje, nie ako cudzie.",
+        "Veterná elektráreň stojí pevnejšie, keď ju podporujú ľudia okolo nej. Dôvera sa buduje od prvého dňa projektu."
+      ]
+    },
+    {
+      "poradie": 18,
+      "carousel": 29,
+      "tema": "Flexibilita",
+      "datum": "2026-12-10",
+      "cas": "08:00",
+      "priecinok": "29",
+      "popisok": "Najcennejšia elektrina je tá, ktorá príde v pravej chvíli.\n\nHodnotu už netvorí len vyrobená elektrina, ale aj schopnosť reagovať v správnej chvíli – zvýšiť či znížiť výrobu alebo spotrebu podľa potrieb sústavy.\n\nFlexibilita je nová mena energetiky. Každý odberateľ môže byť súčasťou riešenia.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #flexibilita #trhselektrinou",
+      "alt_texty": [
+        "Najcennejšia elektrina je tá, ktorá príde v pravej chvíli. Flexibilita na trhu s elektrinou.",
+        "Nová hodnota na trhu. Hodnotu už netvorí len vyrobená elektrina, ale aj schopnosť reagovať v správnej chvíli – zvýšiť či znížiť výrobu alebo spotrebu podľa potrieb sústavy.",
+        "Kto môže flexibilitu poskytovať: Agregátori, ktorí spájajú menšie zdroje; Priemyselné podniky s riaditeľnou spotrebou; Domácnosti s batériou, tepelným čerpadlom či elektromobilom.",
+        "Odmena za reakciu. Kto dokáže na signál zo siete znížiť alebo zvýšiť spotrebu, poskytuje službu, za ktorú môže dostať zaplatené.",
+        "Flexibilita je nová mena energetiky. Každý odberateľ môže byť súčasťou riešenia."
+      ]
+    },
+    {
+      "poradie": 19,
+      "carousel": 18,
+      "tema": "Obehové hospodárstvo",
+      "datum": "2026-12-15",
+      "cas": "08:00",
+      "priecinok": "18",
+      "popisok": "Čo sa stane so solárnym panelom, keď doslúži?\n\nFotovoltické panely sa po skončení životnosti stávajú elektroodpadom. Väčšinu ich hmotnosti tvorí sklo a hliník, ktoré sa dajú ďalej využiť.\n\nDoslúžený panel nie je odpad, ale zdroj surovín. Recyklácia uzatvára kruh zelenej energie.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #recyklacia #fotovoltika",
+      "alt_texty": [
+        "Čo sa stane so solárnym panelom, keď doslúži? Recyklácia fotovoltických panelov.",
+        "Panely sú surovinou. Fotovoltické panely sa po skončení životnosti stávajú elektroodpadom. Väčšinu ich hmotnosti tvorí sklo a hliník, ktoré sa dajú ďalej využiť.",
+        "Kľúčové otázky: Kto zodpovedá za zber a spracovanie; Aké materiály sa dajú získať späť; Ako myslieť na koniec životnosti už pri výstavbe.",
+        "Zodpovednosť od začiatku. Pri výbere panelov a dodávateľa sa oplatí vedieť, ako bude zabezpečený ich zber a recyklácia. Na koniec životnosti treba myslieť už pri výstavbe.",
+        "Doslúžený panel nie je odpad, ale zdroj surovín. Recyklácia uzatvára kruh zelenej energie."
+      ]
+    },
+    {
+      "poradie": 20,
+      "carousel": 14,
+      "tema": "Financovanie",
+      "datum": "2026-12-17",
+      "cas": "08:00",
+      "priecinok": "14",
+      "popisok": "Zelená investícia sa vráti. Kto ju však zaplatí na začiatku?\n\nInvestície do dekarbonizácie sú technologicky aj finančne náročné. Dôsledné finančné plánovanie rozhoduje o tom, či sa projekt podarí zrealizovať.\n\nDobrý projekt začína dobrým finančným plánom. Cena kapitálu je súčasťou konkurencieschopnosti.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #financovanie #dekarbonizacia",
+      "alt_texty": [
+        "Zelená investícia sa vráti. Kto ju však zaplatí na začiatku? Financovanie dekarbonizácie v praxi.",
+        "Zelené projekty potrebujú kapitál. Investície do dekarbonizácie sú technologicky aj finančne náročné. Dôsledné finančné plánovanie rozhoduje o tom, či sa projekt podarí zrealizovať.",
+        "Čo zvažovať: Cenu a dostupnosť kapitálu; Kombináciu bankového financovania a verejných zdrojov; Dlhodobú návratnosť a riziká projektu.",
+        "Plánovanie rozhoduje. Projekt s realistickým rozpočtom, odhadom návratnosti a pomenovanými rizikami má lepšiu šancu získať financovanie za rozumnú cenu.",
+        "Dobrý projekt začína dobrým finančným plánom. Cena kapitálu je súčasťou konkurencieschopnosti."
+      ]
+    },
+    {
+      "poradie": 21,
+      "carousel": 10,
+      "tema": "Veterná energia",
+      "datum": "2026-12-22",
+      "cas": "08:00",
+      "priecinok": "10",
+      "popisok": "Ako zistiť, či sa na danom mieste oplatí stavať veternú elektráreň?\n\nPred rozhodnutím o výstavbe treba poznať, ako a kedy na danom mieste fúka. Presné dáta rozhodujú o výbere lokality, typu turbíny aj o financovaní.\n\nNajprv merať, potom stavať. Dáta o vetre rozhodujú o lokalite, turbíne aj financovaní.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #veternaenergia #vietor",
+      "alt_texty": [
+        "Ako zistiť, či sa na danom mieste oplatí stavať veternú elektráreň? Každý dobrý projekt začína dátami.",
+        "Bez merania niet investície. Pred rozhodnutím o výstavbe treba poznať, ako a kedy na danom mieste fúka. Presné dáta rozhodujú o výbere lokality, typu turbíny aj o financovaní.",
+        "Ako sa vietor meria: Meteorologické stožiare s prístrojmi v rôznych výškach; Diaľkové meranie technológiou LiDAR; Porovnanie s dlhodobými historickými dátami.",
+        "Dáta pre banku aj obec. Presné merania znižujú riziko projektu. Investorovi pomáhajú získať financovanie a obci dávajú istotu, že projekt je dobre pripravený.",
+        "Najprv merať, potom stavať. Dáta o vetre rozhodujú o lokalite, turbíne aj financovaní."
+      ]
+    },
+    {
+      "poradie": 22,
+      "carousel": 25,
+      "tema": "Inteligentné siete",
+      "datum": "2026-12-29",
+      "cas": "08:00",
+      "priecinok": "25",
+      "popisok": "Tisíce nových zdrojov a elektromobilov. Vydrží to sieť?\n\nDistribútori musia zvládnuť pripájanie tisícov malých zdrojov, elektromobilov a flexibilných spotrebičov. Samotné investície do fyzickej infraštruktúry na to nestačia.\n\nSieť budúcnosti musí byť nielen silnejšia, ale aj inteligentnejšia. Inteligentné siete sú realitou, nie víziou.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #smartgrids #inteligentnesiete",
+      "alt_texty": [
+        "Tisíce nových zdrojov a elektromobilov. Vydrží to sieť? Inteligentné siete: od plánov k praxi.",
+        "Posilňovanie sietí nestačí. Distribútori musia zvládnuť pripájanie tisícov malých zdrojov, elektromobilov a flexibilných spotrebičov. Samotné investície do fyzickej infraštruktúry na to nestačia.",
+        "Na čom stoja inteligentné siete: Agregácia flexibility; Lokálne riadenie spotreby; Dátové platformy a spolupráca regulátora, distribútorov a trhu.",
+        "Kto to zaplatí. Modernizácia sietí si vyžiada investície. Dôležité je, ako ich spravodlivo rozdeliť a aké nové služby za ne dostane zákazník.",
+        "Sieť budúcnosti musí byť nielen silnejšia, ale aj inteligentnejšia. Inteligentné siete sú realitou, nie víziou."
+      ]
+    },
+    {
+      "poradie": 23,
+      "carousel": 4,
+      "tema": "Distribučná sieť",
+      "datum": "2027-01-05",
+      "cas": "08:00",
+      "priecinok": "04",
+      "popisok": "Keď si susedia posielajú elektrinu, cez čo vlastne tečie?\n\nZdieľaná elektrina putuje cez distribučnú sústavu. Distribútor preto zohráva kľúčovú úlohu – od registrácie účastníkov po meranie a vyhodnotenie toho, koľko elektriny si medzi sebou odovzdali.\n\nZdieľanie funguje, keď sieť, dáta a pravidlá ťahajú za jeden koniec povrazu. Bez spolupráce s distribútorom sa zdieľanie nezaobíde.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #distribucnasiet #zdielanieelektriny",
+      "alt_texty": [
+        "Keď si susedia posielajú elektrinu, cez čo vlastne tečie? Zdieľanie elektriny očami distribútora.",
+        "Sieť ako spoločná infraštruktúra. Zdieľaná elektrina putuje cez distribučnú sústavu. Distribútor preto zohráva kľúčovú úlohu – od registrácie účastníkov po meranie a vyhodnotenie toho, koľko elektriny si medzi sebou odovzdali.",
+        "Na čom záleží: Presné meranie výroby a spotreby u každého účastníka; Jasné procesy registrácie a zmeny účastníkov; Spolupráca distribútora, dodávateľov a spoločenstiev.",
+        "Šanca aj pre sieť. Ak sa elektrina spotrebuje blízko miesta výroby, môže to lokálnu sieť odľahčiť. Predpokladom je dobrá koordinácia a dáta z inteligentných meraní.",
+        "Zdieľanie funguje, keď sieť, dáta a pravidlá ťahajú za jeden koniec povrazu. Bez spolupráce s distribútorom sa zdieľanie nezaobíde."
+      ]
+    },
+    {
+      "poradie": 24,
+      "carousel": 28,
+      "tema": "Priemysel",
+      "datum": "2027-01-07",
+      "cas": "08:00",
+      "priecinok": "28",
+      "popisok": "Továreň, ktorá elektrinu nielen spotrebúva, ale aj vyrába?\n\nElektrifikácia už nie je ekologická ambícia, ale priemyselná realita. Podniky s vlastnou výrobou a úložiskami sa môžu stať aktívnymi hráčmi na trhu s energiou.\n\nFabrika budúcnosti je zároveň malou elektrárňou. Elektrifikácia otvára priemyslu nové príležitosti.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #priemysel #dekarbonizacia",
+      "alt_texty": [
+        "Továreň, ktorá elektrinu nielen spotrebúva, ale aj vyrába? Elektrifikácia priemyslu v praxi.",
+        "Z odberateľa aj výrobca. Elektrifikácia už nie je ekologická ambícia, ale priemyselná realita. Podniky s vlastnou výrobou a úložiskami sa môžu stať aktívnymi hráčmi na trhu s energiou.",
+        "Kde je priestor: Elektrické procesné teplo a tepelné čerpadlá; Vlastná výroba a úložiská v areáli; Poskytovanie flexibility sústave.",
+        "Nová rola podniku. Podnik s vlastnou výrobou, úložiskom a riaditeľnou spotrebou môže znižovať náklady a zároveň ponúkať sústave flexibilitu.",
+        "Fabrika budúcnosti je zároveň malou elektrárňou. Elektrifikácia otvára priemyslu nové príležitosti."
+      ]
+    },
+    {
+      "poradie": 25,
+      "carousel": 11,
+      "tema": "Samosprávy",
+      "datum": "2027-01-12",
+      "cas": "08:00",
+      "priecinok": "11",
+      "popisok": "Čo môže veterná elektráreň priniesť vašej obci?\n\nVeterné projekty môžu samosprávam priniesť nové príjmy aj možnosť zapojiť obyvateľov. Dôležité je, aby sa obec do projektu zapojila od začiatku.\n\nVietor nad obcou môže pracovať pre obec. Najväčší prínos majú projekty, na ktorých sa obec podieľa.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #samospravy #veternaenergia",
+      "alt_texty": [
+        "Čo môže veterná elektráreň priniesť vašej obci? Vietor ako príležitosť pre samosprávy.",
+        "Prínos pre obec aj obyvateľov. Veterné projekty môžu samosprávam priniesť nové príjmy aj možnosť zapojiť obyvateľov. Dôležité je, aby sa obec do projektu zapojila od začiatku.",
+        "Možné prínosy: Príjmy do rozpočtu obce; Zapojenie do komunitnej energetiky; Investície do miestnej infraštruktúry.",
+        "Obec ako partner. Samospráva môže byť viac než len miestom stavby. Môže sa stať spoluinvestorom, členom energetického spoločenstva alebo odberateľom lacnejšej elektriny.",
+        "Vietor nad obcou môže pracovať pre obec. Najväčší prínos majú projekty, na ktorých sa obec podieľa."
+      ]
+    },
+    {
+      "poradie": 26,
+      "carousel": 30,
+      "tema": "Aktívny odberateľ",
+      "datum": "2027-01-14",
+      "cas": "08:00",
+      "priecinok": "30",
+      "popisok": "Ste len zákazník, alebo aj hráč na trhu s elektrinou?\n\nOdberatelia môžu elektrinu vyrábať, uskladňovať, zdieľať či ponúkať svoju flexibilitu. Zákazník sa tak stáva súčasťou fungovania elektrizačnej sústavy.\n\nBudúcnosť energetiky tvoria aj domácnosti a firmy. Z pasívneho spotrebiteľa sa stáva aktívny účastník.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #aktivnyodberatel #zdielanieelektriny",
+      "alt_texty": [
+        "Ste len zákazník, alebo aj hráč na trhu s elektrinou? Nová rola domácností a firiem.",
+        "Odberateľ s novou rolou. Odberatelia môžu elektrinu vyrábať, uskladňovať, zdieľať či ponúkať svoju flexibilitu. Zákazník sa tak stáva súčasťou fungovania elektrizačnej sústavy.",
+        "Čo môže aktívny odberateľ: Vyrábať a spotrebovať vlastnú elektrinu; Uskladňovať ju v batérii; Zdieľať ju alebo ponúkať svoju flexibilitu.",
+        "Prečo to má zmysel. Aktívny odberateľ znižuje svoje náklady a zároveň pomáha sieti. Viac ľudí zapojených do energetiky znamená odolnejší systém.",
+        "Budúcnosť energetiky tvoria aj domácnosti a firmy. Z pasívneho spotrebiteľa sa stáva aktívny účastník."
+      ]
+    },
+    {
+      "poradie": 27,
+      "carousel": 17,
+      "tema": "Legislatíva",
+      "datum": "2027-01-19",
+      "cas": "08:00",
+      "priecinok": "17",
+      "popisok": "Prečo sledovať energetické zákony, aj keď nie ste právnik?\n\nZmeny v energetickej legislatíve priamo ovplyvňujú výrobcov, odberateľov aj investorov. Rozhodujú o tom, čo sa oplatí a čo je vôbec možné.\n\nKto pozná pravidlá, môže plánovať. Legislatíva je mapa, podľa ktorej sa energetika pohybuje.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #legislativa #energetickapolitika",
+      "alt_texty": [
+        "Prečo sledovať energetické zákony, aj keď nie ste právnik? Pravidlá, ktoré určujú smer celého sektora.",
+        "Zákony formujú trh. Zmeny v energetickej legislatíve priamo ovplyvňujú výrobcov, odberateľov aj investorov. Rozhodujú o tom, čo sa oplatí a čo je vôbec možné.",
+        "Čo sledovať: Pravidlá pripájania nových zdrojov; Nové roly: aktívny odberateľ, agregátor, spoločenstvo; Transpozíciu európskych smerníc do slovenských zákonov.",
+        "Európa udáva smer. Veľká časť slovenských pravidiel vychádza z európskych smerníc. Kto sleduje dianie v EÚ, vie vopred, aké zmeny prídu aj na Slovensko.",
+        "Kto pozná pravidlá, môže plánovať. Legislatíva je mapa, podľa ktorej sa energetika pohybuje."
+      ]
+    },
+    {
+      "poradie": 28,
+      "carousel": 21,
+      "tema": "Modernizácia",
+      "datum": "2027-01-21",
+      "cas": "08:00",
+      "priecinok": "21",
+      "popisok": "Staršie elektrárne ešte fungujú. Oplatí sa ich modernizovať?\n\nMnohé elektrárne postavené pred vyše desaťročím pracujú s technológiou, ktorá už nie je najefektívnejšia. Repowering a nastavenie podpory rozhodujú o ich budúcnosti.\n\nModernizácia dáva starším zdrojom druhý život. Existujúce lokality majú stále veľký potenciál.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #repowering #modernizacia",
+      "alt_texty": [
+        "Staršie elektrárne ešte fungujú. Oplatí sa ich modernizovať? Repowering a druhý život OZE zdrojov.",
+        "Staršie zdroje majú potenciál. Mnohé elektrárne postavené pred vyše desaťročím pracujú s technológiou, ktorá už nie je najefektívnejšia. Repowering a nastavenie podpory rozhodujú o ich budúcnosti.",
+        "O čom je reč: Repowering – výmena zastaraných komponentov za výkonnejšie; Prolongácia – predĺženie obdobia podpory; Férové podmienky pre existujúce investície.",
+        "Viac energie z rovnakého miesta. Novšie technológie dokážu na rovnakom mieste vyrobiť viac elektriny. Repowering tak môže využiť existujúce pripojenie aj povolené plochy.",
+        "Modernizácia dáva starším zdrojom druhý život. Existujúce lokality majú stále veľký potenciál."
+      ]
+    },
+    {
+      "poradie": 29,
+      "carousel": 26,
+      "tema": "Transformácia",
+      "datum": "2027-01-26",
+      "cas": "08:00",
+      "priecinok": "26",
+      "popisok": "Energetika sa mení rýchlejšie než firmy. Ako nezaostať?\n\nO úspechu dnes rozhoduje schopnosť inovovať, rozhodovať sa na základe dát a budovať nové obchodné modely.\n\nZmena je rizikom len pre toho, kto na ňu nie je pripravený. Transformácia môže byť konkurenčnou výhodou.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #transformacia #inovacie",
+      "alt_texty": [
+        "Energetika sa mení rýchlejšie než firmy. Ako nezaostať? Rast v čase rýchlych technologických zmien.",
+        "Rýchlosť zmeny. O úspechu dnes rozhoduje schopnosť inovovať, rozhodovať sa na základe dát a budovať nové obchodné modely.",
+        "Čo prepájať: Stratégiu, ktorá počíta so zmenou; Vedenie, ktoré rozhoduje na základe dát; Inovácie ako súčasť bežnej práce.",
+        "Viac než povinnosť. Firmy, ktoré berú transformáciu ako príležitosť, a nie len ako reakciu na reguláciu, získavajú náskok pred konkurenciou.",
+        "Zmena je rizikom len pre toho, kto na ňu nie je pripravený. Transformácia môže byť konkurenčnou výhodou."
+      ]
+    },
+    {
+      "poradie": 30,
+      "carousel": 22,
+      "tema": "Budúcnosť energetiky",
+      "datum": "2027-01-28",
+      "cas": "08:00",
+      "priecinok": "22",
+      "popisok": "Aká bude energia o dvadsať rokov?\n\nEnergetika sa mení rýchlejšie než kedykoľvek predtým. Pribúdajú obnoviteľné zdroje, batérie a noví hráči – od domácností po celé komunity.\n\nEnergia zajtrajška sa rodí z technológií aj z odvahy meniť veci. Na smerovaní energetiky sa podieľa každý z nás.\n\nViac na sapi.sk\n\n#SAPI #udrzatelnaenergetika #OZE #buducnostenergetiky #inovacie",
+      "alt_texty": [
+        "Aká bude energia o dvadsať rokov? Nielen elektrická, ale aj tá v myslení.",
+        "Zmena už prebieha. Energetika sa mení rýchlejšie než kedykoľvek predtým. Pribúdajú obnoviteľné zdroje, batérie a noví hráči – od domácností po celé komunity.",
+        "Čo formuje budúcnosť: Technológie, ktoré menia energetiku; Spôsob, akým o energii rozmýšľame; Spolupráca naprieč sektormi a krajinami.",
+        "Zmena začína v hlave. Technológie sú k dispozícii. Rovnako dôležitá je ochota meniť zaužívané postupy, spolupracovať a hľadať nové riešenia.",
+        "Energia zajtrajška sa rodí z technológií aj z odvahy meniť veci. Na smerovaní energetiky sa podieľa každý z nás."
+      ]
+    }
+  ]
+}
